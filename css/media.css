@@ -1,0 +1,31 @@
+@media(max-width:1440px){
+   
+}
+@media(max-width:1170px){}
+@media(max-width:1140px){}
+@media(max-width:1024px){}
+
+@media(max-width:992px){
+    .div-list{
+        flex-direction: column-reverse;   
+    }
+    .nav_list{
+        flex-direction: column;
+    }
+    .last{
+       column-gap: 116px;
+    }
+    .last2{
+        column-gap: 100px;
+     }
+     
+}
+@media(max-width:850px){}
+
+@media(max-width:768px){}
+@media(max-width:684px){}
+
+@media(max-width:576px){}
+@media(max-width:480px){}
+@media(max-width:412px){}
+@media(max-width:375px){}
